@@ -8,8 +8,8 @@ site_description: >-
   low latency. Vast support of hardware in both 900 Mhz and 2.4 GHz frequencies.
 
 # Repository
-repo_name: expressLRS/expressLRS
-repo_url: https://github.com/expressLRS/expressLRS
+repo_name: ExpressLRS/ExpressLRS
+repo_url: https://github.com/ExpressLRS/ExpressLRS
 edit_uri: "https://github.com/ExpressLRS/Website/tree/master/docs"
 
 # Copyright
